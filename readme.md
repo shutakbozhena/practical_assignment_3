@@ -17,8 +17,8 @@ The project contains:
 
 the repository includes:
 
-* `answers_task2.md` with answers to the theory questions;
+* `answers.md` with answers to the theory questions;
 * Git commit history with meaningful commits;
-* an `EXPLAIN ANALYZE` example with a short explanation(in answers_task2.md) of the execution plan.
+* an `EXPLAIN ANALYZE` example with a short explanation(in answers.md) of the execution plan.
 
 
