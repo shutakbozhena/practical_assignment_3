@@ -263,3 +263,6 @@ Students must submit:
 5. Screenshot or copied output from `EXPLAIN ANALYZE`, if completed.
 
 Maximum score: **13 points**.
+
+
+Created by Bozheana Shutak
