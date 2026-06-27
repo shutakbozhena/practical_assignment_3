@@ -265,4 +265,4 @@ Students must submit:
 Maximum score: **13 points**.
 
 
-Created by Bozheana Shutak
+Created by Bozhena Shutak
